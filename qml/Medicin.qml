@@ -73,7 +73,7 @@ ApplicationWindow
                 SectionHeader {
                     text: "Did you take your medicin today?"
                 }
-                //Knapp
+                //Knapp testedit
                 Button {
                     id: knapp
                     property bool tagit
